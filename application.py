@@ -26,8 +26,8 @@ import numpy as np
 app = Flask(__name__)
 
 # --- Pushover Notification Setup ---
-PUSHOVER_USER_KEY = "u2gdzhet441shtbyeqjk1eqx7ye3vp"   
-PUSHOVER_API_TOKEN = "abkyymqeyhthuxfn4yb7dbzhi3sago"    
+PUSHOVER_USER_KEY = "Use your user key from pushover"   
+PUSHOVER_API_TOKEN = "Use your api token from pushover"    
 
 def send_push_notification(message, title="Pi Cam Notification", priority=0):
     payload = {
