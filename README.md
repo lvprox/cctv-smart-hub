@@ -4,7 +4,7 @@ This project is an integrated security and control system built on a Raspberry P
 
 ## Table of Contents
 
-- Overview(overview)
+- Overview
 - Features
 - Hardware Requirements
 - Software Requirements
